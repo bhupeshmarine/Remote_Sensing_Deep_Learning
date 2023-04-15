@@ -18,4 +18,4 @@ Overall, this project was a great learning experience and allowed me to apply my
 code/: This directory contains the code I used to preprocess the data, train and test the machine learning models, and generate the final results.
 data/: This directory contains the raw and processed data used in the project.
 results/: This directory contains the results of my experiments, including the final model and evaluation metrics.
-README.md: This file provides an overview of the project and describes how to replicate my results.
+README.md: This file provides an overview of project and describes how to replicate my results.
