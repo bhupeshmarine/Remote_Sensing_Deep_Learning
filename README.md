@@ -11,7 +11,7 @@ To solve this problem, I used a combination of image processing techniques and m
 # Results
 After training and testing several machine learning models, I was able to achieve an accuracy of XX% on the test set. This means that my model can correctly predict the presence or non-presence of rice crops XX% of the time.
 
-# Conclusion
+# Conclusion:
 Overall, this project was a great learning experience and allowed me to apply my skills in data science to a real-world problem. By predicting the presence or non-presence of rice crops, we can better understand the distribution of this important crop and work toward improving food security around the world.
 
 # Repository Contents
